@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import './home.css';
+import './Home.css';
 import Slider from './Slider';
 import Notice from './Notice';
 import WelcomeSection from './WelcomeSection';
