@@ -1,7 +1,7 @@
 import { Container, Row, Col, Carousel, Card } from "react-bootstrap";
-import topper1 from "../assets/topper/vinay.png";
-import topper2 from "../assets/topper/rajender.png";
-import topper3 from "../assets/topper/riya.png";
+import topper1 from "../assets/Topper/Vinay.png";
+import topper2 from "../assets/Topper/Rajender.png";
+import topper3 from "../assets/Topper/Riya.png";
 
 export default function TopperNoticeSection() {
     const toppers = [
