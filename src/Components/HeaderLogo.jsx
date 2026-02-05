@@ -1,4 +1,4 @@
-import headerlogo from '../assets/headerlogo.jpg';
+import headerlogo from '../assets/headerlogo.JPG';
 import { Container, Row, Col } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 
