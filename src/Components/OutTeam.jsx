@@ -1,10 +1,10 @@
 import { Container, Row, Col, Card } from "react-bootstrap";
 import { FaInstagram, FaLinkedinIn, FaFacebookF } from "react-icons/fa";
 
-import team4 from "../assets/team/ceo_vijay.png";
-import team1 from "../assets/team/vinay.png";
-import team2 from "../assets/team/gufran.png";
-import team3 from "../assets/team/abhishek.png";
+import team4 from "../assets/Team/ceo_vijay.png";
+import team1 from "../assets/Team/vinay.png";
+import team2 from "../assets/Team/gufran.png";
+import team3 from "../assets/Team/Abhishek.png";
 export default function OurTeam() {
     const teamMembers = [
         {
