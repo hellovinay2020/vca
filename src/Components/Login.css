@@ -1,0 +1,17 @@
+.responsive-heading {
+    font-size: clamp(1.5rem, 5vw, 3.5rem);
+    text-align: center;
+    color: white;
+    font-weight: bold;
+
+}
+
+.login-wrapper {
+    background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+
+}
+
+.CenterSignup:hover {
+    box-shadow: 0px 0px 14px rgb(242 253 3);
+    transition: 0.4s;
+}

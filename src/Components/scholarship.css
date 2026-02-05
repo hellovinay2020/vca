@@ -1,0 +1,63 @@
+/* ScholarshipForm.css */
+
+/* Container & Background */
+.schoartship-container {
+    background-image: linear-gradient(to right top, #051937, #002a45, #00393e, #004426, #354b04);
+    /* Light gray background */
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+    max-width: 1340px;
+    margin: auto;
+}
+
+/* Form Title */
+.form-title {
+    font-size: 28px;
+    font-weight: 700;
+}
+
+/* Labels */
+.form-label {
+    font-weight: 500;
+    color: #555;
+}
+
+/* Form Control */
+.form-control {
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    padding: 10px 12px;
+    font-size: 15px;
+}
+
+/* Invalid Feedback */
+.invalid-feedback {
+    font-size: 13px;
+    color: #d9534f;
+}
+
+/* Select Dropdown */
+.form-select {
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    padding: 10px 12px;
+    font-size: 15px;
+}
+
+/* Buttons */
+button {
+    border-radius: 8px;
+    padding: 10px 20px;
+    font-size: 16px;
+}
+
+button:hover {
+    opacity: 0.9;
+}
+
+/* Photo Preview */
+.img-thumbnail {
+    border-radius: 8px;
+    border: 1px solid #ddd;
+}

@@ -1,0 +1,23 @@
+.competition-container {
+    background-image: linear-gradient(to right top, #051937, #002a45, #00393e, #004426, #354b04);
+    padding: 30px;
+    border-radius: 12px;
+    margin-top: 50px;
+    color: #fff;
+}
+
+.form-title {
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.form-control,
+.form-select,
+textarea {
+    border-radius: 8px !important;
+}
+
+img.img-thumbnail {
+    border-radius: 10px;
+}
