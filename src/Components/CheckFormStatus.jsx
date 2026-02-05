@@ -3,7 +3,7 @@ import { Container, Row, Col, Form, Button } from "react-bootstrap";
 import AOS from "aos";
 import "aos/dist/aos.css";
 import Swal from "sweetalert2";
-import sideImage from "../assets/check_form/checkform.png";
+import sideImage from "../assets/check_form/checkform.PNG";
 export default function CheckFormStatus() {
     useEffect(() => {
         AOS.init({ duration: 700, once: true });
