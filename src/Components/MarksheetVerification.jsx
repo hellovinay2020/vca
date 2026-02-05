@@ -3,7 +3,7 @@ import { Container, Row, Col, Form, Button } from "react-bootstrap";
 import AOS from "aos";
 import "aos/dist/aos.css";
 import Swal from "sweetalert2";
-import verifyImg from "../assets/check_form/checkform.png";
+import verifyImg from "../assets/check_form/checkform.PNG";
 import { Link } from "react-router-dom";
 
 export default function MarksheetVerification() {
